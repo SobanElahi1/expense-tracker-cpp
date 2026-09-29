@@ -8,7 +8,7 @@ class Expense
     int id;
     std::string date;
     std::string category;
-    std::string description
+    std::string description;
     double amount;
 
     public:
